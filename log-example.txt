@@ -1,0 +1,169 @@
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::init called
+Tue Jul 07 13:48:30 - [INFO] - ########################################
+                               Current time: 2020/03/17 17:01:24.884492
+                               ########################################
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::enterMarket called
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::placeBid called
+Tue Jul 07 13:48:30 - [INFO] - Placing bid for 1.000000 DOGE/BTC at a rate of 0.000000
+Tue Jul 07 13:48:30 - [INFO] - Wallet has sufficient funds to accomodate bid.
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::placeBid called
+Tue Jul 07 13:48:30 - [INFO] - Placing bid for 1.000000 DOGE/USDT at a rate of 0.001655
+Tue Jul 07 13:48:30 - [INFO] - Wallet has insufficient funds to accomodate bid.
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::placeBid called
+Tue Jul 07 13:48:30 - [INFO] - Placing bid for 1.000000 ETH/BTC at a rate of 0.021891
+Tue Jul 07 13:48:30 - [INFO] - Wallet has sufficient funds to accomodate bid.
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::placeBid called
+Tue Jul 07 13:48:30 - [INFO] - Placing bid for 1.000000 ETH/USDT at a rate of 117.329244
+Tue Jul 07 13:48:30 - [INFO] - Wallet has insufficient funds to accomodate bid.
+Tue Jul 07 13:48:30 - [INFO] - Looking for matches.
+Tue Jul 07 13:48:30 - [INFO] - Matching: BTC/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:1
+Tue Jul 07 13:48:30 - [INFO] - Sale price: 0.000000 amount 1.000000
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:1
+Tue Jul 07 13:48:30 - [INFO] - Sale price: 0.021891 amount 1.000000
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Advancing to next time frame.
+Tue Jul 07 13:48:30 - [INFO] - ########################################
+                               Current time: 2020/03/17 17:01:30.099017
+                               ########################################
+Tue Jul 07 13:48:30 - [INFO] - Wallet at 2020/03/17 17:01:30.099017: 
+                               BTC : 9.978109	DOGE : 1.000000	ETH : 1.000000	
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::enterMarket called
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::exitMarket called
+Tue Jul 07 13:48:30 - [INFO] - Looking for matches.
+Tue Jul 07 13:48:30 - [INFO] - Matching: BTC/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Advancing to next time frame.
+Tue Jul 07 13:48:30 - [INFO] - ########################################
+                               Current time: 2020/03/17 17:01:35.103526
+                               ########################################
+Tue Jul 07 13:48:30 - [INFO] - Wallet at 2020/03/17 17:01:35.103526: 
+                               BTC : 9.978109	DOGE : 1.000000	ETH : 1.000000	
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::enterMarket called
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::exitMarket called
+Tue Jul 07 13:48:30 - [INFO] - Looking for matches.
+Tue Jul 07 13:48:30 - [INFO] - Matching: BTC/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Advancing to next time frame.
+Tue Jul 07 13:48:30 - [INFO] - ########################################
+                               Current time: 2020/03/17 17:01:40.107326
+                               ########################################
+Tue Jul 07 13:48:30 - [INFO] - Wallet at 2020/03/17 17:01:40.107326: 
+                               BTC : 9.978109	DOGE : 1.000000	ETH : 1.000000	
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::enterMarket called
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::exitMarket called
+Tue Jul 07 13:48:30 - [INFO] - Looking for matches.
+Tue Jul 07 13:48:30 - [INFO] - Matching: BTC/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Advancing to next time frame.
+Tue Jul 07 13:48:30 - [INFO] - ########################################
+                               Current time: 2020/03/17 17:01:45.111661
+                               ########################################
+Tue Jul 07 13:48:30 - [INFO] - Wallet at 2020/03/17 17:01:45.111661: 
+                               BTC : 9.978109	DOGE : 1.000000	ETH : 1.000000	
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::enterMarket called
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::exitMarket called
+Tue Jul 07 13:48:30 - [INFO] - Looking for matches.
+Tue Jul 07 13:48:30 - [INFO] - Matching: BTC/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Advancing to next time frame.
+Tue Jul 07 13:48:30 - [INFO] - ########################################
+                               Current time: 2020/03/17 17:01:50.116610
+                               ########################################
+Tue Jul 07 13:48:30 - [INFO] - Wallet at 2020/03/17 17:01:50.116610: 
+                               BTC : 9.978109	DOGE : 1.000000	ETH : 1.000000	
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::enterMarket called
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::exitMarket called
+Tue Jul 07 13:48:30 - [INFO] - Selling ETH/BTC for: 0.021893
+Tue Jul 07 13:48:30 - [INFO] - Original purchase price: ETH/BTC for: 0.021893
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::placeAsk called
+Tue Jul 07 13:48:30 - [INFO] - Placing ask for 1.000000 ETH/BTC at a rate of 0.021893
+Tue Jul 07 13:48:30 - [INFO] - Wallet has sufficient funds to accomodate bid.
+Tue Jul 07 13:48:30 - [INFO] - Looking for matches.
+Tue Jul 07 13:48:30 - [INFO] - Matching: BTC/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: DOGE/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/BTC
+Tue Jul 07 13:48:30 - [INFO] - Sales:1
+Tue Jul 07 13:48:30 - [INFO] - Sale price: 0.021893 amount 1.000000
+Tue Jul 07 13:48:30 - [INFO] - Matching: ETH/USDT
+Tue Jul 07 13:48:30 - [INFO] - Sales:0
+Tue Jul 07 13:48:30 - [INFO] - Advancing to next time frame.
+Tue Jul 07 13:48:30 - [INFO] - ########################################
+                               Current time: 2020/03/17 17:01:55.120438
+                               ########################################
+Tue Jul 07 13:48:30 - [INFO] - Wallet at 2020/03/17 17:01:55.120438: 
+                               BTC : 10.000002	DOGE : 1.000000	ETH : 0.000000	
+Tue Jul 07 13:48:30 - [DEBUG] - TradeBot::enterMarket called
+Tue Jul 07 13:48:31 - [DEBUG] - TradeBot::placeBid called
+Tue Jul 07 13:48:31 - [INFO] - Placing bid for 1.000000 ETH/BTC at a rate of 0.021900
+Tue Jul 07 13:48:31 - [INFO] - Wallet has sufficient funds to accomodate bid.
+Tue Jul 07 13:48:31 - [DEBUG] - TradeBot::placeBid called
+Tue Jul 07 13:48:31 - [INFO] - Placing bid for 1.000000 ETH/USDT at a rate of 117.446091
+Tue Jul 07 13:48:31 - [INFO] - Wallet has insufficient funds to accomodate bid.
+Tue Jul 07 13:48:31 - [DEBUG] - TradeBot::exitMarket called
+Tue Jul 07 13:48:31 - [INFO] - Selling ETH/BTC for: 0.021900
+Tue Jul 07 13:48:31 - [INFO] - Original purchase price: ETH/BTC for: 0.021900
+Tue Jul 07 13:48:31 - [DEBUG] - TradeBot::placeAsk called
+Tue Jul 07 13:48:31 - [INFO] - Placing ask for 1.000000 ETH/BTC at a rate of 0.021900
+Tue Jul 07 13:48:31 - [INFO] - Wallet has insufficient funds to accomodate bid.
+Tue Jul 07 13:48:31 - [INFO] - Looking for matches.
+Tue Jul 07 13:48:31 - [INFO] - Matching: BTC/USDT
+Tue Jul 07 13:48:31 - [INFO] - Sales:0
+Tue Jul 07 13:48:31 - [INFO] - Matching: DOGE/BTC
+Tue Jul 07 13:48:31 - [INFO] - Sales:0
+Tue Jul 07 13:48:31 - [INFO] - Matching: DOGE/USDT
+Tue Jul 07 13:48:31 - [INFO] - Sales:0
+Tue Jul 07 13:48:31 - [INFO] - Matching: ETH/BTC
+Tue Jul 07 13:48:31 - [INFO] - Sales:1
+Tue Jul 07 13:48:31 - [INFO] - Sale price: 0.021900 amount 1.000000
+Tue Jul 07 13:48:31 - [INFO] - Matching: ETH/USDT
+Tue Jul 07 13:48:31 - [INFO] - Sales:0
+Tue Jul 07 13:48:31 - [INFO] - Advancing to next time frame.
+Tue Jul 07 13:48:31 - [INFO] - ########################################
+                               Current time: 2020/03/17 17:02:00.124758
+                               ########################################
+Tue Jul 07 13:48:31 - [INFO] - Wallet at 2020/03/17 17:02:00.124758: 
+                               BTC : 9.978102	DOGE : 1.000000	ETH : 1.000000	
+Tue Jul 07 13:48:31 - [DEBUG] - TradeBot::enterMarket called
