@@ -1,6 +1,3 @@
-Compile command used for development:
-g++ main.cpp OrderBookEntry.cpp OrderBook.cpp MerkelMain.cpp CSVReader.cpp Wallet.cpp TradeBot.cpp Logger.cpp -o exchange -std=c++11
-
 Configurations:
 - Logs to log.txt
 - Uses the shorter CSV file for testing purposes. This can be switched by changing the argument in the OrderBook initialization to the larger filename ("20200601.csv") in MerkelMain.h. The larger file takes much longer to run the simulation.
